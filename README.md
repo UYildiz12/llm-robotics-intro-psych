@@ -26,6 +26,15 @@ The notebooks were created for use in [Google Colab](https://colab.research.goog
    ```
 4. Navigate to the `Week-1/Notebooks` folder and open any notebook.
 
+## Curriculum (subject to change)
+
+1- Python and colab basics, function calling, Using FC to control robots simulated enviroments  
+2- Interaction design, prompting techniques, choosing right models and parsing for interactions  
+3- Multimodal integration, realtime APIs and how to work with them, speech to speech systems  
+4- Defensive LLM programming, Dspy for robustness, handling context windows in interactions  
+5- Review, Trying your systems with Pepper  
+
+
 ## License
 
 All course materials are provided for educational use only.

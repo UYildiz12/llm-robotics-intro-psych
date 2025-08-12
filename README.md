@@ -1,4 +1,4 @@
-# Introduction to LLM Robotics for Psychologists
+# Introduction to LLM-Controlled Robots for Psychologists
 
 This repository contains course materials for an introductory module on robotics and psychology. The focus is on how large language models (LLMs) and embodied agents can be used within psychological experiments. Materials are organized by week.
 
